@@ -1,0 +1,35 @@
+#######################################
+# Class
+#######################################
+
+arsalearn_v1	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+pin			KEYWORD2
+pir			KEYWORD2
+press			KEYWORD2
+hall			KEYWORD2
+hmy			KEYWORD2
+lcd_i2c			KEYWORD2
+ultrasonic			KEYWORD2
+buzzer			KEYWORD2
+relay			KEYWORD2
+key			KEYWORD3
+led			KEYWORD3
+d			KEYWORD3
+D			KEYWORD3
+A			KEYWORD3
+f			KEYWORD3
+u			KEYWORD3
+r			KEYWORD3
+write			KEYWORD2
+
+
+#######################################
+# Constants
+#######################################
+
+#NEO_COLMASK		LITERAL1
